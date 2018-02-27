@@ -1,0 +1,7 @@
+C:\Users\Danino\source\repos\XO_Project\XO_Project\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\Danino\source\repos\XO_Project\XO_Project\bin\TypeScriptHTMLApp1.dll
+C:\Users\Danino\source\repos\XO_Project\XO_Project\bin\TypeScriptHTMLApp1.pdb
+C:\Users\Danino\source\repos\XO_Project\XO_Project\obj\Debug\XO_Project.csproj.CoreCompileInputs.cache
+C:\Users\Danino\source\repos\XO_Project\XO_Project\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\Danino\source\repos\XO_Project\XO_Project\obj\Debug\TypeScriptHTMLApp1.pdb
+C:\Users\Danino\source\repos\XO_Project\XO_Project\obj\Debug\XO_Project.csprojResolveAssemblyReference.cache
